@@ -1,5 +1,5 @@
-/* Service Worker v2.0.0 — change CACHE_NAME at each release */
-const CACHE_NAME = 'depenses-v2.0.0';
+/* Service Worker v3.0.0 — change CACHE_NAME at each release */
+const CACHE_NAME = 'depenses-v3.0.0';
 const ASSETS = [
   './',
   './index.html',
