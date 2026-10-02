@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#0f172a"/>
+  <g stroke="#334155" stroke-width="6">
+    <line x1="96" y1="150" x2="416" y2="150"/><line x1="96" y1="192" x2="416" y2="192"/>
+    <line x1="96" y1="234" x2="416" y2="234"/><line x1="96" y1="276" x2="416" y2="276"/>
+    <line x1="96" y1="318" x2="416" y2="318"/><line x1="96" y1="360" x2="416" y2="360"/>
+  </g>
+  <text x="256" y="330" font-size="230" text-anchor="middle">🎸</text>
+  <rect x="96" y="410" width="320" height="14" rx="7" fill="#f59e0b"/>
+</svg>
